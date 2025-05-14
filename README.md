@@ -2,7 +2,7 @@ Description:
 
 
 This 32-bit x86 NASM assembly program reads a series of bytes, converts them to their ASCII hexadecimal representation, and prints the result to the terminal. 
-Each byte is represented as two hex characters (e.g., `0x83` → `83`), with a space between each value. A newline is printed at the end.
+Each byte is represented as two hex characters (e.g., `0x83` -> `83`), with a space between each value. A newline is printed at the end.
 
 
 Sample Output:
